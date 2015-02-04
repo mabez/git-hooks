@@ -3,5 +3,5 @@ PHP Codesniffer Pre-Commit Hook for GIT
 Adataptação de http://github.com/s0enke/git-hooks
 para instalação de codesniffer no seu diretório na home.
 
-Para saber mais acesse https://github.com/mabez/git-hooks/wiki/Uso-do-git-hooks
+Para saber mais acesse https://github.com/mabez/git-hooks/wiki
 
