@@ -1,5 +1,5 @@
 # path to phpcs "binary"
-PHPCS_BIN=/usr/bin/phpcs
+PHPCS_BIN=phpcs
 
 # the coding standard, you can also specify a path to your own standard here 
 # e. g. /path/to/my/standard/dir/
@@ -13,7 +13,7 @@ PHPCS_IGNORE=
 PHPCS_SNIFFS=Generic.Files.ByteOrderMark,Generic.PHP.DisallowShortOpenTag
 
 # egrep compatible pattern of  files to be checked
-PHPCS_FILE_PATTERN="\.(php|phtml)$"
+PHPCS_FILE_PATTERN="\.(php)$"
 
 # ignore warnings
 PHPCS_IGNORE_WARNINGS=1
