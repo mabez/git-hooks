@@ -1,4 +1,7 @@
-git-hooks collection
+PHP Codesniffer Pre-Commit Hook for GIT
 
-Currently just a pre-commit hook for PHP Codesniffer
+Adataptação de http://github.com/s0enke/git-hooks
+para instalação de codesniffer no seu diretório na home.
+
+Para saber mais acesse https://github.com/mabez/git-hooks/wiki/Uso-do-git-hooks
 
